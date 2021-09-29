@@ -6,7 +6,7 @@
 - 👨‍💻 &nbsp; (2019.10 ~ 2021.05) 육군 제12사단 정보보호병
 - 🌱 &nbsp; (2021.07 ~ 현재) Kitri Best of the Best(10th) 보안컨설팅 트랙
 
-<h3> 🛠 &nbsp;Tech Stech</h3>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-suqre&logo=python&labelColor=ffffff)
