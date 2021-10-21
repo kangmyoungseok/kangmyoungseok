@@ -1,4 +1,4 @@
-<h2> Hey there! I'm MyeongSeok.</h2>
+<h2> I'm MyeongSeok 😎</h2>
 
 <h3> 💡 &nbsp;Work Experience </h3>
 
