@@ -8,16 +8,23 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-suqre&logo=python&labelColor=ffffff)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-suqre&logo=Java&logoColor=orange&labelColor=ffffff)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat-suqre&logo=C&logoColor=00599C&labelColor=ffffff)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat-suqre&logo=C%2B%2B&logoColor=00599C&labelColor=ffffff)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-suqre&logo=CSS3&logoColor=1572B6&labelColor=ffffff)
-- 🔭 &nbsp;
-  ![Kali Linix](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat-suqre&logo=kali%20linux&logoColor=blue&labelColor=ffffff)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat-suqre&logo=Ubuntu&logoColor=orange&labelColor=ffffff)
-  ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat-suqre&logo=wireshark&logoColor=blue&labelColor=ffffff)
+
+#### Languages
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-777BB4?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-7E4DD2?style=for-the-badge&logo=PHP&logoColor=white)
+  
+#### IDE
+  ![VS Code](https://img.shields.io/badge/VSCode-blue.svg?logo=visual-studio-code)
+  ![Colab](https://img.shields.io/badge/Google%20Colab-orange.svg?logo=google%20colab)
+  
+#### Technologies
+  ![Kali Linix](https://img.shields.io/badge/-Kali%20Linux-000?logo=Kali%20Linux&labelColor=ffffff)
+  ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux&labelColor=ffffff&logoColor=red)
+  ![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark&logoColor=blue&labelColor=ffffff)
 
 <h3> 📜 &nbsp;Certificate</h3>
 
