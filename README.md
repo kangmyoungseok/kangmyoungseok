@@ -10,12 +10,12 @@
 
 
 #### Languages
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-777BB4?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-  ![PHP](https://img.shields.io/badge/-PHP-7E4DD2?style=for-the-badge&logo=PHP&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-00498c?style=for-the-badge&logo=Python&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-44649f?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-6c80b2?style=for-the-badge&logo=c&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-919ec5?style=for-the-badge&logo=java&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-b6bed8?style=for-the-badge&logo=MySQL&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-dadeeb?style=for-the-badge&logo=PHP&logoColor=white)
   
 #### IDE
   ![VS Code](https://img.shields.io/badge/VSCode-blue.svg?logo=visual-studio-code)
