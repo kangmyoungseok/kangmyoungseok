@@ -42,4 +42,4 @@
 - (2021) 정보처리학회 ACK 2021 은상 
 - (2021) KMAC 경영혁신 연구논문 및 사례연구 공모전 장려상
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmyoungseok&theme=default&show_icons=true)
+
