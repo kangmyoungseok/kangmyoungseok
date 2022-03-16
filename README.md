@@ -41,3 +41,6 @@
 - (2021) Kisa AI + Security 논문 공모전 우수상 
 - (2021) 정보처리학회 ACK 2021 은상 
 - (2021) KMAC 경영혁신 연구논문 및 사례연구 공모전 장려상
+
+
+<a data-theme="light" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/57918da5ac5987a0370ff9b40b16b0"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
