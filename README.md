@@ -44,6 +44,5 @@
 - (2021) KMAC 경영혁신 연구논문 및 사례연구 공모전 장려상
 
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmyoungseok)](https://github.com/kangmyoungseok/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangmyoungseok)](https://github.com/kangmyoungseok/github-readme-stats)
- 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmyoungseok)]
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=200&section=footer)
