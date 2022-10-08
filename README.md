@@ -20,11 +20,7 @@
 #### IDE
   ![VS Code](https://img.shields.io/badge/VSCode-blue.svg?logo=visual-studio-code)
   ![Colab](https://img.shields.io/badge/Google%20Colab-orange.svg?logo=google%20colab)
-  
-#### Technologies
-  ![Kali Linix](https://img.shields.io/badge/-Kali%20Linux-000?logo=Kali%20Linux&labelColor=ffffff)
-  ![Linux](https://img.shields.io/badge/-Linux-000?logo=Linux&labelColor=ffffff&logoColor=red)
-  ![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark&logoColor=blue&labelColor=ffffff)
+  ![Andriod Studio](https://img.shields.io/badge/Android%20Studio-black.svg?logo=Android%20Studio)
 
 <h3> 📜 &nbsp;Certificate</h3>
 
