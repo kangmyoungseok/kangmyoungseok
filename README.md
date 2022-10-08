@@ -24,9 +24,12 @@
 
 <h3> 📚 Project </h3>
 
-- AI를 활용한 스캠코인 탐지 플랫폼 ( 2021.09 ~ 2021.12 ) (https://github.com/kangmyoungseok/RugPull-Prediction-AI)
-- CAUTion 여름방학 웹 해킹 프로젝트 (https://github.com/WebH3ll)
-- 3학년 전공 과목 프로젝트 (https://github.com/CAU-Project/)
+- AI를 활용한 스캠코인 탐지 플랫폼
+  - https://github.com/kangmyoungseok/RugPull-Prediction-AI
+- CAUTion 여름방학 웹 해킹 프로젝트
+  - https://github.com/WebH3ll
+- 3학년 전공 과목 프로젝트 
+  - https://github.com/CAU-Project
 
 
 <h3> 📜 &nbsp;Certificate</h3>
