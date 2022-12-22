@@ -45,11 +45,11 @@
 
 <h3> 🏅 &nbsp;Awards</h3>
 
-- (2022) [TS 보안 허점을 찾아라](https://user-images.githubusercontent.com/33647663/209083065-423ed0f1-354b-469d-885f-a4d84b7ff130.png){:target="_blank"} 장려상
-- (2022) [블록체인 난제해결 챌린지](https://user-images.githubusercontent.com/33647663/209082953-3ca9635b-579e-4068-99a0-3bdc443b4a40.png){:target="_blank"} 대상 [**과학기술정보통신부장관상**]
-- (2021) [Kisa AI + Security 논문 공모전](https://user-images.githubusercontent.com/33647663/209083156-4cc17040-7d50-47c0-9c61-c34960423cff.png){:target="_blank"} 우수상 [**한국인터넷진흥원장상**]
+- (2022) [TS 보안 허점을 찾아라](https://user-images.githubusercontent.com/33647663/209083065-423ed0f1-354b-469d-885f-a4d84b7ff130.png) 장려상
+- (2022) [블록체인 난제해결 챌린지](https://user-images.githubusercontent.com/33647663/209082953-3ca9635b-579e-4068-99a0-3bdc443b4a40.png) 대상 [**과학기술정보통신부장관상**]
+- (2021) [Kisa AI + Security 논문 공모전](https://user-images.githubusercontent.com/33647663/209083156-4cc17040-7d50-47c0-9c61-c34960423cff.png) 우수상 [**한국인터넷진흥원장상**]
 - (2021) 정보처리학회 ACK 2021 은상 
-- (2021) [KMAC 경영혁신 연구논문 및 사례연구 공모전](https://user-images.githubusercontent.com/33647663/209083366-331f9e36-fc52-4f21-b8bb-e37b55029996.png){:target="_blank"} 장려상
+- (2021) [KMAC 경영혁신 연구논문 및 사례연구 공모전](https://user-images.githubusercontent.com/33647663/209083366-331f9e36-fc52-4f21-b8bb-e37b55029996.png) 장려상
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmyoungseok)](https://github.com/kangmyoungseok/github-readme-stats)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangmyoungseok)](https://github.com/kangmyoungseok/github-readme-stats)
  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=150&section=footer)
