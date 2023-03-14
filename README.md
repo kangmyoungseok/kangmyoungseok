@@ -10,17 +10,24 @@
 
 
 #### Languages
-  ![Python](https://img.shields.io/badge/-Python-00498c?style=for-the-badge&logo=Python&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-44649f?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-6c80b2?style=for-the-badge&logo=c&logoColor=white)
+
+  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-919ec5?style=for-the-badge&logo=java&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-b6bed8?style=for-the-badge&logo=MySQL&logoColor=white)
-  ![PHP](https://img.shields.io/badge/-PHP-dadeeb?style=for-the-badge&logo=PHP&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
-#### IDE
-  ![VS Code](https://img.shields.io/badge/VSCode-blue.svg?logo=visual-studio-code)
-  ![Colab](https://img.shields.io/badge/Google%20Colab-orange.svg?logo=google%20colab)
-  ![Andriod Studio](https://img.shields.io/badge/Android%20Studio-black.svg?logo=Android%20Studio)
+#### Frontend
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Backend
+  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+
+#### Database
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+  
 
 <h3> 📚 Project </h3>
 
